@@ -1,1 +1,3 @@
-# Convex_hull
+# Convex hull
+
+Denice Estefania Rico Morones
